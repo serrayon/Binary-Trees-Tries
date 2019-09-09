@@ -22,6 +22,9 @@ JPEG encoders use Huffman coding for compression,which requires a frequency sort
 
 
 
+<img width="286" alt="Screen Shot 2019-09-06 at 10 19 04 AM" src="https://user-images.githubusercontent.com/49975993/64555065-6ed64c00-d2f1-11e9-9126-1cb3e42ef097.png">
+
+
 
 Tries
 https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014
