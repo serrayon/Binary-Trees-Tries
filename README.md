@@ -20,7 +20,7 @@ Sorting algorithms
 Parsers
 JPEG encoders use Huffman coding for compression,which requires a frequency sorted binary tree.
 
-
+<img width="417" alt="Screen Shot 2019-09-09 at 11 11 24 AM" src="https://user-images.githubusercontent.com/49975993/64555651-9ed21f00-d2f2-11e9-97b3-d5b3cc9f7b38.png">
 
 <img width="286" alt="Screen Shot 2019-09-06 at 10 19 04 AM" src="https://user-images.githubusercontent.com/49975993/64555065-6ed64c00-d2f1-11e9-9126-1cb3e42ef097.png">
 
