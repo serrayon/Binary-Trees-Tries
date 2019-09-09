@@ -6,7 +6,7 @@ Binary Trees and Tries
 
 Octavio, James W, John
 
-
+![Uploading Screen Shot 2019-09-06 at 9.59.47 AM.png…]()
 
 
 
